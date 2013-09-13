@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<Articles>
+	
+<a 
+	source="Slashdot"
+	date="01/01/1970"
+	hour="13:37"
+	title="Lorem Ipsum"
+	content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Cras at mauris ut tortor vestibulum fringilla vel sed metus.Nam placerat mauris at dolor imperdiet at aliquet lectus ultricies."
+	id="s001"
+	interestFlag="1"	
+/>
+
+</Articles>
+
+
